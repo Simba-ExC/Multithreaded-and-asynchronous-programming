@@ -1,4 +1,4 @@
-﻿// homework_2_2.cpp : MAP-5 Задание 2. «Прогресс бар»
+﻿//«Прогресс бар»
 
 #include <iostream>
 #include <windows.h>
