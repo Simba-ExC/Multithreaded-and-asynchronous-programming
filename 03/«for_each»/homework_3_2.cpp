@@ -1,4 +1,4 @@
-﻿// homework_3_2.cpp: MAP-5 Задание 2 «for_each»
+﻿// «for_each»
 
 #include <algorithm>
 #include <iostream>
