@@ -1,4 +1,4 @@
-﻿// homework_2_3.cpp : MAP-5 Задание 2. «Защищенный обмен данными»
+﻿// «Защищенный обмен данными»
 
 #include <iostream>
 #include <thread>
