@@ -1,4 +1,4 @@
-﻿// homework_3_1.cpp: MAP-5 Задание 1 «Сортировка выбором»
+﻿// «Сортировка выбором»
 
 #include <algorithm>
 #include <iostream>
